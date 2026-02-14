@@ -1,0 +1,9 @@
+{
+  "name": "parametric-viewer",
+  "version": "0.1.0",
+  "dependencies": [
+    "opencascade",
+    "coin",
+    "soqt"
+  ]
+}
